@@ -3,7 +3,6 @@ import { SingupInput } from '../zod-types'
 import axios from 'axios'
 // import {BACKEND_URL} from "../config"
 import { useNavigate } from 'react-router-dom'
-import React from 'react'
 
 
 const Signup = () => {
